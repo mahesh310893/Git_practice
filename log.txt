@@ -1,0 +1,10 @@
+total 12
+-rw-rw-r-- 1 shekar   ec2-user  0 Jul 28 00:06 file4
+-rw-rw-r-- 1 ec2-user ec2-user  0 Jul 28 00:06 file3
+drwxrwxr-x 2 ec2-user ec2-user 59 Jul 28 12:20 suresh
+drwxrwxr-x 3 ec2-user ec2-user 71 Jul 30 11:39 ramesh
+-rw-rw-r-- 1 ec2-user ec2-user 12 Jul 30 13:08 file2
+-rw-rw-r-- 1 ec2-user ec2-user 12 Jul 30 13:13 file5
+drwxrwxr-x 2 ec2-user ec2-user 46 Jul 30 13:23 mahesh
+-rw-rw-r-- 1 ec2-user ec2-user 12 Jul 31 08:41 file1
+-rw-rw-r-- 1 ec2-user ec2-user  0 Jul 31 08:43 log.txt
