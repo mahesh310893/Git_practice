@@ -497,3 +497,51 @@ sh exmp6.sh 4 8 10
 sh exmp6.sh 10 12 9
 sh exmp6.sh 100 90 80
 vi exmp6.sh
+sudo yum update -y
+yum install git -y
+sudo yum update install -y
+sudo -i
+git --version
+which git
+git init
+vi git1.sh
+git remote add mahesh https://github.com/mahesh310893/Git_practice.git
+git remote
+git add .
+git status
+git commit -m "mahesh changes"
+git log
+git push -u mahesh
+git push -u mahesh https://github.com/mahesh310893/Git_practice.git
+git push https://github.com/mahesh310893/Git_practice.git
+git push https://github.com/mahesh310893/Git_practice.git
+git branch
+git branch my_branch1
+git branch
+git checkout -b my_branch2
+git branch
+git checkout master
+git branch
+ping google.com
+git pull origin mahesh
+git pull origin
+git pull mahesh
+git pull my_branch1
+git pull mahesh my_branch1
+git pull https://github.com/mahesh310893/Git_practice.git
+ll
+git pull https://github.com/mahesh310893/Git_practice.git
+vi git_new
+git add .
+git status
+cat .viminfo
+git status
+git commit -m "New file git"
+git status
+git log
+git push mahesh https://github.com/mahesh310893/Git_practice.git
+git push origin master
+git push -u origin mahesh
+git push -u origin master
+git push https://github.com/mahesh310893/Git_practice.git
+git pull  https://github.com/mahesh310893/Git_practice.git
